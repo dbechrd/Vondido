@@ -1,0 +1,10 @@
+Just a few ideas I was working with when I gave up.
+
+GAME:
+
+ ===>>-Fix Movement to match where walls are<<===
+
+ -High Scores
+ -Invisible walls
+ -Invis walls that move
+ -Random moving opponents (snakes, monsters)
