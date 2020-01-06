@@ -2,6 +2,9 @@
 
 Chip's Challenge inspired puzzle game written in AutoIt scripting language circa 2007. "Vondido" was the codename.
 
+Original release post on AutoIt forums:
+https://www.autoitscript.com/forum/topic/34225-my-game/
+
 ### Version 1.0.0
 ![screenshot](screenshot_1.0.0.png)
 
