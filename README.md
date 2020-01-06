@@ -10,8 +10,8 @@ Chip's Challenge inspired puzzle game written in AutoIt scripting language circa
 
 First off, I WILL TRY MY BEST TO MAKE SURE THAT EACH LEVEL IS 100% BEATABLE.  I have recorded my times for each of the current levels.
 
-Level 1 - 24 seconds
-Level 2 - 27 seconds
+  - Level 1 - 24 seconds
+  - Level 2 - 27 seconds
 
 Hello, and thank you for reading this.  Dead Gem: New York City, and named after and created by Dandymcgee (Dan Bechard).  This is the ReadMe file.  Any distribution of this software is currently free, but this MUST remain with the program UNEDITED.  Under no circumstances is this to be claimed as your own, as it is not.  Nor, at this point in time, is it to be redistributed for a sum or fee.  By using this program, you hereby agree to all of the aforementioned terms, and may continue reading the instructions to this game.
 
@@ -28,7 +28,7 @@ I know there is still a whole ton of work left for me to do in the programming a
 Constant updates at my website (below) be sure to visit me often and leave a nice little comment in the guestbook.  Thanks!
 
 Dead Gem: NYC
-By: Dandymcgee  <dandymcgee123@yahoo.com>
+By: Dandymcgee  <redacted@yahoo.com>
 
 ## Credits
 
